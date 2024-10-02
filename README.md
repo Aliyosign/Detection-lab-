@@ -1,7 +1,7 @@
 ![siem lab pic](https://github.com/user-attachments/assets/c1e7fefd-c66b-4185-9388-f3828ee4e918)
 
-To get more details about this project 
-## <a href="https://medium.com/@aliceeneyo/how-to-use-a-siem-tool-in-a-real-life-situation-88e13e3cd923">CLICK HERE</a>
+## To get more details about this project <a href="https://medium.com/@aliceeneyo/how-to-use-a-siem-tool-in-a-real-life-situation-88e13e3cd923">CLICK HERE</a>
+
 # SIEM Implementation and Log Analysis using Elastic Cloud
 # How to Use a SIEM Tool in a Real-Life Situation
 
